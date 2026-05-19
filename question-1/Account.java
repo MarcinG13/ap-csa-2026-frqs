@@ -18,6 +18,7 @@ public class Account {
   
   }
 
+  // PART B
   public String getShortenedName() {
     String result = username;
     while (result.indexOf("-")!=-1) {
