@@ -6,3 +6,4 @@ When I took the AP Exam, my approach to solving this question was by setting the
 
 ## Part B: Shorten Username
 
+My approach toward solving this question on the AP Exam was to find each hyphen in the string using substring, then cut them out of the string including the letter before using a loop to ensure all hyphens are deleted.
