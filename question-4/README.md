@@ -1,1 +1,3 @@
+# Question 4: GameBoard
 
+This was the 2d array question of the AP CSA exam. In order to solve this I first created a points variable in order to get the sum of all the points when I loop through the target row. In order to figure out if the color is consistent throughout the row I created a variable in order to store the last color set as the first color in the row to start off as and a boolean variable called same which if true means it is consistent (Same starts off as true). When I loop through the row I check to see if the color of the current space is equal to the color of the last space and if not I set same to false and update last color to the current color. At the end if same is true I multiply the points by 2 and then return them.
