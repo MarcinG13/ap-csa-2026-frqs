@@ -5,7 +5,7 @@ All question folders contain the code I used to solve the question and my approa
 
 - [x] Question 1: Account
   - [x] Part A: Unique Username
-  - [x] Part B: Shortened Username
+  - [x] Part B: Shorten Username
 - [x] Question 2: Bottle
 - [x] Question 3: Attendance
 - [x] Question 4: GameBoard
